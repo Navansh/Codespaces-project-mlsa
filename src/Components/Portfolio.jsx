@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Modern 3js Portfolio Website",
+    description: "A modern portfolio website built with React, Three.js, and Tailwind CSS.",
+    url: "https://navansh.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Discord Frontend Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Discord clone built with React, Redux, and Firebase. Includes authentication, database, and hosting.",
+    url: "https://discord-frontend-clone.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "React Shopping Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A shopping website built with React, Redux, and Firebase. Includes authentication, database, and hosting.",
+    url: "https://shopping-website-react-1-iqbbbmy1x-navansh.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Razorpay Frontend Clone",
+    description: "A Fully animated RazorPay Clone built with HTML, CSS, and JavaScript.",
+    url: "https://razorpay-frontend-clone.vercel.app/",
   },
 ];
 
